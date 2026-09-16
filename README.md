@@ -48,7 +48,7 @@
 
 <h3>Where to find me</h3>
 <p>
-<a href="http://coderakki.in//" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%2312100E.svg?&style=for-the-badge&logo=red" /></a>
+<a href="https://akkiverse.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%2312100E.svg?&style=for-the-badge&logo=red" /></a>
 <a href="https://www.linkedin.com/in/abhishek-kumar-singh-07/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
