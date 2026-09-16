@@ -4,8 +4,8 @@
 <h3>About Me</h3>
 - 👀 I’m interested in building my career in Artificial Intelligence and Machine Learning field.<br>
 - 🌱 I’m currently learning fundamentals of AI and ML.<br>
-- 💞️ I’m working as Software Developer at Epam System.<br>
-- 📫 One can reach me at my email id: abhisheksingh007@outlook.in or can visit my website for more details, <br>
+- 💞️ I’m working as Senior Software Developer at Epam System.<br>
+- 📫 One can reach me at my email id: abhishek.se.contact@gmail.com or can visit my website for more details, <br>
 
 <h3>Programming Language and Technical Knowledge I have</h3>
 <p>
